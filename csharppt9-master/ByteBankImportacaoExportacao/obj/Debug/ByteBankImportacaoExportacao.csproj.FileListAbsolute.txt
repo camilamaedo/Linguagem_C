@@ -1,0 +1,6 @@
+C:\Users\Camila\Documents\Camila\Cursos\C#\Parte 9\csharppt9-master\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\Camila\Documents\Camila\Cursos\C#\Parte 9\csharppt9-master\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Camila\Documents\Camila\Cursos\C#\Parte 9\csharppt9-master\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\Camila\Documents\Camila\Cursos\C#\Parte 9\csharppt9-master\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+C:\Users\Camila\Documents\Camila\Cursos\C#\Parte 9\csharppt9-master\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\Camila\Documents\Camila\Cursos\C#\Parte 9\csharppt9-master\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
