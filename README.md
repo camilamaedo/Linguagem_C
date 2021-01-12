@@ -1,2 +1,2 @@
 # Linguagem_C
-Arquivos do Curso de .NET na Alura
+Arquivos do Curso de .NET da Alura
